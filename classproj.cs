@@ -11,7 +11,7 @@ static void Main(string[] args)
 {
 Dictionary<string, int> candidates = new Dictionary<string, int>();
 List<int> nameList = new List<int>();
-string winnter = "";
+string winner = "";
 while (true)
 {
 string name = Console.ReadLine();
